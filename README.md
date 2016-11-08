@@ -1,2 +1,5 @@
 # GlobalStudies
-I will be using this repository to gather information on something, then make a website. No information is mine, and sources will be labeled.
+Description:
+This is for a global studies project. I will be making a project on [topic].
+
+Sources:
